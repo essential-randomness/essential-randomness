@@ -1,6 +1,6 @@
 # Welcome to My ~~Twist~~ GitHub Profile ✨
 
-Hello! I'm Ms. Boba—a **tech weaver, educator, community builder**, and proud resident online [fujoshi](https://fujocoded.com/fujoshi#what-is-a-fujoshi). I’m passionate about the **social internet**, **fanworks fandom**, **niche online communities**, and—neither last nor least—**software**, especially the open source, interoperable, and decentralized kind.  
+Hello! I'm Ms. Boba—a **tech weaver, educator, community builder**, and resident online [fujoshi](https://fujocoded.com/fujoshi#what-is-a-fujoshi). I’m passionate about the **social internet**, **fanworks fandom**, **niche online communities**, and—neither last nor least—**software**, especially the open source, interoperable, and decentralized kind.  
 
 The bulk of my work revolves around **online social spaces** and **niche subcultures**, as well as **technical education and evangelism** aimed at empowering the members of these spaces. I’m driven not only by a deep love for the internet but by a firm belief: the only way to build a better, kinder web is to empower its inhabitants in becoming **active participants in its creation**—and by having fun in the process!
 
