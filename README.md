@@ -6,7 +6,7 @@ The bulk of my work revolves around **online social spaces** and **niche subcult
 
 ### 🏗 Among the many things I do, I founded:
 - **[FujoCoded, LLC](https://fujocoded.com/):** A company dedicated to empowering niche online subcultures.  
-- **[FujoWebDev](https://www.fujoweb.dev/):** The technical education arm of FujoCoded LLC, teaching everything from version control with Git, to how to use a terminal, to open, decentralized protocols.  
+- **[FujoWebDev](https://www.fujoweb.dev/):** The technical education arm of FujoCoded LLC, teaching everything from version control with Git, to how to use a terminal, to decentralized protocols.  
 - **[BobaBoard](https://bobaboard.com/):** A community-built, forum-like social software for niche communities, on its way to becoming a sociocratic organization.  
 
 ## Support My Work 🌟
